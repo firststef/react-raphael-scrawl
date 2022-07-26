@@ -1,6 +1,6 @@
 {
   "name": "react-raphael-scrawl",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "so easy, create scrawl with react-raphael!",
   "main": "lib/index.js",
   "file": [
@@ -15,7 +15,7 @@
     "docs": "webpack --devtool cheap-module-source-map --progress --color --profile --config webpack.docs.config.js --watch"
   },
   "dependencies": {
-    "react-raphael": "^0.8.0"
+    "react-raphael": "^0.9.0"
   },
   "devDependencies": {
     "babel": "^6.0.0",
