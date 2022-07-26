@@ -45,11 +45,11 @@
     "file-loader": "^0.9.0",
     "raphael": "^2.2.6",
     "url-loader": "^0.5.7",
-    "prop-types": "^15.5.10",
+    "prop-types": "^15.5.10"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuhong1happy/react-raphael-scrawl.git"
+    "url": "git+https://github.com/firststef/react-raphael-scrawl.git"
   },
   "keywords": [
     "react",
